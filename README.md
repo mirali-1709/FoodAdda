@@ -84,3 +84,5 @@ For questions, feedback, or suggestions, please reach out to us at [vachhani.kru
 #### ⭐ If you like this project, don't forget to give it a star on [GitHub](https://github.com/KrupeshVachhani/FoodAdda/)!
 
 ---
+
+---
